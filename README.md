@@ -12,5 +12,4 @@ CS Undergrad | Java, Python & SQL | Core CS Foundations
 **Languages:** Java • Python • SQL
 
 ### Connect with me
-- LinkedIn: https://www.linkedin.com/in/somnath-saha-6b5371311/
 - Email: ss0326736@gmail.com
